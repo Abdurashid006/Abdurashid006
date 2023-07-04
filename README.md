@@ -79,28 +79,4 @@
 # <div align="center"> 🤚-- Hi I frond-end developer. My name is Abdurashid and I work in Freelance</div>  
   
 
-<br/>  
 
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
